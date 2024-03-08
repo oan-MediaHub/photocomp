@@ -1,4 +1,4 @@
-const deadline = new Date("2024-02-29T23:59:00+03:00").getTime();
+const deadline = new Date("2024-03-9T23:59:00+03:00").getTime();
 
 const countdown = setInterval(function () {
     const now = new Date().getTime();
